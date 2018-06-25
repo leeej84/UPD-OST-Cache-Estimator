@@ -5,6 +5,8 @@
 #
 # http://www.leeejeffries.com
 #
+# Please pay me a visit if you find this script useful
+#
 # Generated on: 19/06/18
 #
 #This script will loop through each user and shared mailbox and estimate mailbox cache usage per day and month for the life of the mailbox
