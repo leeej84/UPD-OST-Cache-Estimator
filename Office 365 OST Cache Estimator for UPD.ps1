@@ -74,7 +74,7 @@ foreach ($mailbox in $mailboxes) {
     $totalSizeinGB = 0
     $totalItems = 0
 
-    "Processed - $mailbox.Name"
+    "Processed - $mailbox"
 }
 
 #List out array objects
